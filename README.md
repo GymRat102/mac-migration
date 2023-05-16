@@ -42,6 +42,14 @@ My checklist for new macOS machine
 
 - Zsh configuration manager - [Oh My Zsh]([url](https://ohmyz.sh/))
 
+- Git Config
+  - Basic configs ([GTB instructions]([url](https://trello.com/c/JrAkQeDy/140-day01-%E9%85%8D%E7%BD%AE-git)))
+  - [Generate a new ssh key]([url](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)) & [add ssh key to GitHub]([url](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account))
+  - [ ] config based on folder
+
+- Editor
+  - [IntelliJ IDEA]([url](https://www.jetbrains.com/idea/download/#section=mac))
+
 ## Office-specific
 
 - Zoom
