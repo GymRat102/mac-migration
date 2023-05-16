@@ -14,5 +14,9 @@ My checklist for new macOS machine
   - import configuration file from [karabiner-configs repo](https://github.com/GymRat102/karabiner-configs)
 
 - Window Manager([SizeUp](https://www.irradiatedsoftware.com/sizeup/))
-  - download from [its website](https://www.irradiatedsoftware.com/sizeup/)
   - a review article about alternatives: [7 款 Mac 窗口管理利器推荐，任务再多也不乱](https://www.ifanr.com/app/699275)
+
+## Office-specific
+
+- Zoom
+- Wecom
