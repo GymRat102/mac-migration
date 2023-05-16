@@ -27,7 +27,23 @@ My checklist for new macOS machine
 
 - [ ] Alfred
 
+## Coding
+
+- Command Line Tools (CLT) for Xcode
+  - xcode-select --install
+  - or automatic install prompt from iterm2
+  - [ ] packed with git?
+
+- Package Manager ([Homebrew]([url](https://brew.sh/)))
+
+- Terminal Emulator ([Alfred](https://iterm2.com/downloads.html))
+  - [ ] requires pip3/command line developer tools installed
+  - [ ] what magic does iterm2 do
+
+- Zsh configuration manager - [Oh My Zsh]([url](https://ohmyz.sh/))
+
 ## Office-specific
 
 - Zoom
 - Wecom
+- WeChat
