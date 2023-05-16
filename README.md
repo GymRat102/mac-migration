@@ -3,6 +3,15 @@ My checklist for new macOS machine
 
 ---
 
+## Mac Settings
+
+- Dock
+  - No System Apps 
+  - Left Dock & Adjust Size
+  - No recent apps shown
+- Trackpad
+  - Tap to click
+
 ## Software
 
 - Browser ([Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ))
