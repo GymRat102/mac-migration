@@ -3,6 +3,13 @@ My checklist for new macOS machine
 
 ---
 
+## Software
+
+- Browser (Microsoft Edge)
+  - sign in for syncing
+    - personal account & company account
+  - [ ] config minimum style [你与清爽 Mac 版 Edge 浏览器还差一个配置文件的距离](https://sspai.com/post/77397)
+
 - Karabiner-Elements
   - import configuration file from [karabiner-configs repo](https://github.com/GymRat102/karabiner-configs)
 
