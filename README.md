@@ -28,7 +28,10 @@ My checklist for new macOS machine
 - Window Manager([SizeUp](https://www.irradiatedsoftware.com/sizeup/))
   - a review article about alternatives: [7 款 Mac 窗口管理利器推荐，任务再多也不乱](https://www.ifanr.com/app/699275)
 
-- [ ] Alfred
+- Quick Launcher
+  - Raycast
+    - [ ] config
+  - [ ] Alfred
 
 - Menu bar simplifier ([Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12))
 
