@@ -46,6 +46,8 @@ My checklist for new macOS machine
     - Using [Nutstore](https://www.jianguoyun.com/s/downloads) for syncing
   - Notion
 
+- Dock badge monitor ([Doll](https://github.com/xiaogdgenuine/Doll))
+
 ## Coding
 
 - Command Line Tools (CLT) for Xcode
