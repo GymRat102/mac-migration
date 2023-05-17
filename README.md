@@ -40,6 +40,7 @@ My checklist for new macOS machine
 - Dictionary ([Eudic](https://www.eudic.net/v4/en/app/eudic))
   - [ ] Dictionary resources
   - [ ] Eudic config
+  - set command+1 as hotkey
 
 - Spaced Repetition ([Anki](https://apps.ankiweb.net/))
 
