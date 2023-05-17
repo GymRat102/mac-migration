@@ -55,6 +55,7 @@ My checklist for new macOS machine
 - Zsh configuration manager - [Oh My Zsh]([url](https://ohmyz.sh/))
   - [autocompletion](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
   - [plevel10k](https://github.com/romkatv/powerlevel10k#getting-started)
+    - [font incompatible solution for editors](https://github.com/romkatv/powerlevel10k/blob/master/font.md)  
 
 - Git Config
   - Basic configs ([GTB instructions]([url](https://trello.com/c/JrAkQeDy/140-day01-%E9%85%8D%E7%BD%AE-git)))
