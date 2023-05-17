@@ -14,6 +14,8 @@ My checklist for new macOS machine
   - Tap to click
 - Function Keys
   - Use F1, F2 keys as standard function keys
+- Menubar
+  - System Settings -> Clock Options -> display the time with seconds
 
 ## Software
 
