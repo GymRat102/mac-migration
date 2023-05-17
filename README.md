@@ -41,6 +41,11 @@ My checklist for new macOS machine
 
 - Spaced Repetition ([Anki](https://apps.ankiweb.net/))
 
+- Note
+  - [Obsidian](https://obsidian.md/download)
+    - Using [Nutstore](https://www.jianguoyun.com/s/downloads) for syncing
+  - Notion
+
 ## Coding
 
 - Command Line Tools (CLT) for Xcode
