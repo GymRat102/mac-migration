@@ -6,11 +6,14 @@ My checklist for new macOS machine
 ## Mac Settings
 
 - Dock
-  - No System Apps 
+  - No System Apps
   - Left Dock & Adjust Size
   - No recent apps shown
+  - [Add dock spacer](https://chrispennington.blog/blog/add-spacer-in-macos-dock/)
 - Trackpad
   - Tap to click
+- Function Keys
+  - Use F1, F2 keys as standard function keys
 
 ## Software
 
@@ -27,6 +30,14 @@ My checklist for new macOS machine
 
 - [ ] Alfred
 
+- Menu bar simplifier ([Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12))
+
+- Dictionary ([Eudic](https://www.eudic.net/v4/en/app/eudic))
+  - [ ] Dictionary resources
+  - [ ] Eudic config
+
+- Spaced Repetition ([Anki](https://apps.ankiweb.net/))
+
 ## Coding
 
 - Command Line Tools (CLT) for Xcode
@@ -36,11 +47,14 @@ My checklist for new macOS machine
 
 - Package Manager ([Homebrew]([url](https://brew.sh/)))
 
-- Terminal Emulator ([Alfred](https://iterm2.com/downloads.html))
+- Terminal Emulator ([iterm2](https://iterm2.com/downloads.html))
+  - dark theme
   - [ ] requires pip3/command line developer tools installed
   - [ ] what magic does iterm2 do
 
 - Zsh configuration manager - [Oh My Zsh]([url](https://ohmyz.sh/))
+  - [autocompletion](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+  - [plevel10k](https://github.com/romkatv/powerlevel10k#getting-started)
 
 - Git Config
   - Basic configs ([GTB instructions]([url](https://trello.com/c/JrAkQeDy/140-day01-%E9%85%8D%E7%BD%AE-git)))
@@ -49,9 +63,23 @@ My checklist for new macOS machine
 
 - Editor
   - [IntelliJ IDEA]([url](https://www.jetbrains.com/idea/download/#section=mac))
+    - [ ] create command-line launcher
+    - Idea-Vim plugin
+      - [ ] .ideavimrc config
+  - [ ] Vim
+  - [ ] VS Code
+
+- SDK Manager ([SDKMAN!](https://sdkman.io/install))
+  - select JDK to install: `sdk java list`
+
+- Containerization
+  - [OrbStack](https://orbstack.dev/download)
+
+- API Client (Postman)
 
 ## Office-specific
 
 - Zoom
 - Wecom
 - WeChat
+- VMWare Horizon Client
