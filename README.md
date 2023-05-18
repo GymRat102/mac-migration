@@ -51,6 +51,9 @@ My checklist for new macOS machine
 
 - Dock badge monitor ([Doll](https://github.com/xiaogdgenuine/Doll))
 
+- Screenshot
+  - [Xnip](https://apps.apple.com/us/app/xnip/id1221250572?mt=12)
+
 ## Coding
 
 - Command Line Tools (CLT) for Xcode
