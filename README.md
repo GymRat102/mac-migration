@@ -54,6 +54,9 @@ My checklist for new macOS machine
 - Screenshot
   - [Xnip](https://apps.apple.com/us/app/xnip/id1221250572?mt=12)
 
+- Shortcut tools
+  - [Shortery](https://www.lgerckens.de/shortery/)
+
 ## Coding
 
 - Command Line Tools (CLT) for Xcode
