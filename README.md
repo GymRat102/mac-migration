@@ -84,8 +84,10 @@ My checklist for new macOS machine
 - Editor
   - [IntelliJ IDEA]([url](https://www.jetbrains.com/idea/download/#section=mac))
     - [ ] create command-line launcher
-    - Idea-Vim plugin
-      - [ ] .ideavimrc config
+    - Plugins
+      - Idea-Vim plugin
+        - [ ] .ideavimrc config
+      - GitToolBox
   - [ ] Vim
   - [ ] VS Code
 
