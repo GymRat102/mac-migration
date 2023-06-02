@@ -99,6 +99,16 @@ My checklist for new macOS machine
 
 - API Client (Postman)
 
+- Cloud and Kubernetes
+  - az
+    `brew install az`
+  - openlens
+    `brew install --cask openlens`
+  - kubelogin
+    `brew install Azure/kubelogin/kubelogin`
+  - kubectl
+    `brew install kubectl`
+
 ## Office-specific
 
 - Zoom
