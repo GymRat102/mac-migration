@@ -60,6 +60,7 @@ My checklist for new macOS machine
 - Note
   - [Obsidian](https://obsidian.md/download)
     - Using [Nutstore](https://www.jianguoyun.com/s/downloads) for syncing
+      - not show icon in dock
   - Notion
 
 - Dock badge monitor ([Doll](https://github.com/xiaogdgenuine/Doll))
