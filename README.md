@@ -130,3 +130,4 @@ My checklist for new macOS machine
 - Wecom
 - WeChat
 - VMWare Horizon Client
+- Office 365
