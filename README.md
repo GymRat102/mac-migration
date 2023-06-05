@@ -82,6 +82,7 @@ My checklist for new macOS machine
 
 - Terminal Emulator ([iterm2](https://iterm2.com/downloads.html))
   - dark theme
+  - uncheck closing asking
   - [ ] requires pip3/command line developer tools installed
   - [ ] what magic does iterm2 do
 
