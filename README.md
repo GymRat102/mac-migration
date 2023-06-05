@@ -106,7 +106,7 @@ My checklist for new macOS machine
   - [ ] VS Code
 
 - SDK Manager ([SDKMAN!](https://sdkman.io/install))
-  - select JDK to install: `sdk java list`
+  - select JDK to install: `sdk list java` & `sdk install java {candidate}`
 
 - Containerization
   - [OrbStack](https://orbstack.dev/download)
