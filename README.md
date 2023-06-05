@@ -16,10 +16,16 @@ My checklist for new macOS machine
   - Use F1, F2 keys as standard function keys
 - Menubar
   - System Settings -> Clock Options -> display the time with seconds
+  - remove
+    - WIFI
+    - spotlight
+- Finder
+  - Settings > Sidebar: check home locations
 
 ## Software
 
 - Browser ([Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ))
+  - set as default browser 
   - sign in for syncing
     - personal account & company account
   - [ ] config minimum style [你与清爽 Mac 版 Edge 浏览器还差一个配置文件的距离](https://sspai.com/post/77397)
@@ -28,6 +34,7 @@ My checklist for new macOS machine
   - import configuration file from [karabiner-configs repo](https://github.com/GymRat102/karabiner-configs)
 
 - Window Manager([SizeUp](https://www.irradiatedsoftware.com/sizeup/))
+  - start on Login
   - reset shortcuts:
     - Make Window Full Screen: option + command + F
     - Preferences > General > not Show Visual Action Overlay
@@ -36,13 +43,15 @@ My checklist for new macOS machine
 - Quick Launcher
   - Raycast
     - [ ] config
+    - set up Quicklinks
   - [ ] Alfred
 
 - Menu bar simplifier ([Hidden Bar](https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12))
 
 - Dictionary ([Eudic](https://www.eudic.net/v4/en/app/eudic))
-  - [ ] Dictionary resources
-  - [ ] Eudic config
+  - [] Download resources & config from Google Drive
+    - Dictionary resources
+    - Eudic config
   - set command+1 as hotkey
 
 - Spaced Repetition ([Anki](https://apps.ankiweb.net/))
@@ -67,25 +76,25 @@ My checklist for new macOS machine
   - or automatic install prompt from iterm2
   - [ ] packed with git?
 
-- Package Manager ([Homebrew]([url](https://brew.sh/)))
+- Package Manager ([Homebrew]((https://brew.sh/)))
 
 - Terminal Emulator ([iterm2](https://iterm2.com/downloads.html))
   - dark theme
   - [ ] requires pip3/command line developer tools installed
   - [ ] what magic does iterm2 do
 
-- Zsh configuration manager - [Oh My Zsh]([url](https://ohmyz.sh/))
+- Zsh configuration manager - [Oh My Zsh]((https://ohmyz.sh/))
   - [autocompletion](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
   - [plevel10k](https://github.com/romkatv/powerlevel10k#getting-started)
     - [font incompatible solution for editors](https://github.om/romkatv/powerlevel10k/blob/master/font.md)  
 
 - Git Config
-  - Basic configs ([GTB instructions]([url](https://trello.com/c/JrAkQeDy/140-day01-%E9%85%8D%E7%BD%AE-git)))
-  - [Generate a new ssh key]([url](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)) & [add ssh key to GitHub]([url](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account))
+  - Basic configs ([GTB instructions]((https://trello.com/c/JrAkQeDy/140-day01-%E9%85%8D%E7%BD%AE-git)))
+  - [Generate a new ssh key]((https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)) & [add ssh key to GitHub]((https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account))
   - [ ] config based on folder
 
 - Editor
-  - [IntelliJ IDEA]([url](https://www.jetbrains.com/idea/download/#section=mac))
+  - [IntelliJ IDEA]((https://www.jetbrains.com/idea/download/#section=mac))
     - [ ] create command-line launcher
     - Plugins
       - Idea-Vim plugin
