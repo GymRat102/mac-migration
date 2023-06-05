@@ -76,7 +76,7 @@ My checklist for new macOS machine
   - or automatic install prompt from iterm2
   - [ ] packed with git?
 
-- Package Manager ([Homebrew]((https://brew.sh/)))
+- Package Manager ([Homebrew](https://brew.sh/))
 
 - Terminal Emulator ([iterm2](https://iterm2.com/downloads.html))
   - dark theme
@@ -89,8 +89,8 @@ My checklist for new macOS machine
     - [font incompatible solution for editors](https://github.om/romkatv/powerlevel10k/blob/master/font.md)  
 
 - Git Config
-  - Basic configs ([GTB instructions]((https://trello.com/c/JrAkQeDy/140-day01-%E9%85%8D%E7%BD%AE-git)))
-  - [Generate a new ssh key]((https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)) & [add ssh key to GitHub]((https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account))
+  - Basic configs ([GTB instructions](https://trello.com/c/JrAkQeDy/140-day01-%E9%85%8D%E7%BD%AE-git))
+  - [Generate a new ssh key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) & [add ssh key to GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
   - [ ] config based on folder
 
 - Editor
