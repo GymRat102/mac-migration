@@ -37,6 +37,7 @@ My checklist for new macOS machine
   - start on Login
   - reset shortcuts:
     - Make Window Full Screen: option + command + F
+    - Make left/down/up/right window: control + option + command + H/J/K/L
     - Preferences > General > not Show Visual Action Overlay
   - a review article about alternatives: [7 款 Mac 窗口管理利器推荐，任务再多也不乱](https://www.ifanr.com/app/699275)
 
